@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash",
+  "description": "3D Subway Surfers-style endless railway runner game built with Three.js, React, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
